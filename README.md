@@ -3,7 +3,7 @@
 Welcome to my personal portfolio repository. This website was designed and developed from scratch to showcase my projects, skills, and experience in UI/UX Design and Frontend Development.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://portofolio-marco.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marco--saputro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marco-saputro-966036237)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marco--saputro-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/marco-saputro-96b036237)
 [![Behance](https://img.shields.io/badge/Behance-marcoagusto-blue?style=for-the-badge&logo=behance)](https://www.behance.net/marcoagusto)
 
 ---
@@ -29,8 +29,6 @@ This portfolio was built with a focus on a clean, modern, and functional user ex
 ---
 
 ## **📸 Preview**
-
-*Note: This is a placeholder image. You can replace `portfolio-preview.png` in the `assets/images/` folder with a screenshot of your live website.*
 
 ![Portfolio Preview](assets/images/portfolio-preview.png)
 
