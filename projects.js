@@ -1,11 +1,3 @@
-// data/projects.js
-
-// TODO: This is where you will manage your project data.
-// - To add a new project, copy an existing object and paste it at the end of the array.
-// - Update the `id`, `title`, `description`, `image`, `tags`, and `details`.
-// - The `image` path should point to your project image in `assets/images/`.
-// - The `details` section is what appears in the modal. Use HTML for formatting.
-
 const projects = [
   {
     id: 1,

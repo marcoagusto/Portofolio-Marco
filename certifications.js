@@ -1,9 +1,3 @@
-// TODO: Kelola data sertifikasi Anda di sini.
-// - 'title': Nama sertifikasi.
-// - 'issuer': Lembaga yang mengeluarkan (misalnya, Udemy, Microsoft).
-// - 'details': Konten HTML yang akan muncul di modal.
-// - 'driveLink': Tautan ke sertifikat Anda di Google Drive atau platform lainnya.
-
 const certifications = [
   {
     id: 1,
